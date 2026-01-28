@@ -1,5 +1,4 @@
 # THE PAIR METHOD: A Framework for AI-Assisted Engineering
-**Created and Conceptualized by Dhenmark Arquiza**
 
 ## 📖 What’s This All About?
 
